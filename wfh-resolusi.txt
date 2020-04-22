@@ -1,4 +1,4 @@
 WFH Resolusi 
 - Belajar Git Hub
-- Belajar Tutorial PHP
-- Belajar Tutotial Html
+- Belajar Tutorial Pemrogaman PHP
+- Belajar Tutotial Pemrograman Html
