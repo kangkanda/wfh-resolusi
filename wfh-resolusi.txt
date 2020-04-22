@@ -1,4 +1,6 @@
 WFH Resolusi 
 - Belajar Git Hub
+  a. Belajar update
+  b. Belajar fungsi menu
 - Belajar Tutorial Pemrograman PHP
 - Belajar Tutotial Pemrograman Html
