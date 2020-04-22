@@ -4,3 +4,4 @@ WFH Resolusi
   b. Belajar fungsi menu
 - Belajar Tutorial Pemrograman PHP
 - Belajar Tutotial Pemrograman Html
+- Belajar membuat Web
